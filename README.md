@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Paul
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning Machine learning, Data science, Deep learning.
-- 💞️ I’m looking to get an opportunity to work with a esteemed organisation to improve my skills and also contribute for the its growth. on ...
+- 💞️ I’m looking to get an opportunity to work with a esteemed organisation to improve my skills and also contribute for its growth.
 - 📫 I am always available in my linkedin and also on github.
 
 <!---
